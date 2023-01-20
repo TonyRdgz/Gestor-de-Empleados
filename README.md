@@ -1,3 +1,3 @@
-# CRUD-local-HTML-CSS-JavaScript
+# Gestor de empleados-JavaScript
 
-Ejemplo sencillo de creación de CRUD Local usando HTML, CSS y JavaScript
+Proyecto final para la materia de Javascript
